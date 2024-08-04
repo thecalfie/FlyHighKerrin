@@ -1,0 +1,51 @@
+
+body{
+    background: url(Image/Mothers%20day%202024.png);
+    color: black;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+table{
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin: auto;
+}
+
+td{
+  border: 7px dashed black;  
+    width: 400px;
+    height: 400px;
+    align-content: flex-start;
+    padding: 10px;
+    font-size: 22px;
+    text-align: center;
+    align-content: center;
+    text-decoration: none;
+}
+
+#container{
+    background: rgba(255,255,255,0.7);
+    width: 99%;
+    height: 99%;
+    margin: auto;
+    align-content: center;
+}
+
+#media{
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: transparent;
+}
+
+#playButton{
+    margin: auto;
+    height: 50px;
+    padding: 5px;
+    text-align: center;
+}
